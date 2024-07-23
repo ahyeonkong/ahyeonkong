@@ -2,13 +2,13 @@
 https://akong2125.tistory.com/<br><br>
 
 ## 🩵 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyeonkong&layout=compact&theme=nord)<br><br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahyeonkong&theme=city_lights&exclude=none)
 
 ## 🩵 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)<br><br>
 
 ## 🩵 Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeonkong&theme=nord&show_icons=true)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeonkong&theme=city_lights&show_icons=true)<br><br>
 
 ## 🩵 Tech Stacks
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
