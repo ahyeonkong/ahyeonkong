@@ -1,5 +1,6 @@
 ## 🩵 Blog
-https://akong2125.tistory.com/<br><br>
+💙 https://akong2125.tistory.com/<br>
+💙 https://velog.io/@akong/posts/<br><br>
 
 ## 🩵 Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahyeonkong&theme=city_lights&exclude=none)
