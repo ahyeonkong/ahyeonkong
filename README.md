@@ -1,7 +1,3 @@
-## 🩵 Blog
-💙 https://akong2125.tistory.com/<br>
-💙 https://velog.io/@akong/posts/<br><br>
-
 ## 🩵 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)<br><br>
 
