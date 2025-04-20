@@ -8,7 +8,7 @@
 |No.|Project Name|Period|Description|Role|
 |:----:|:----:|:----:|:----:|:----:|
 |1|[TeamPu](https://github.com/Gobongbab/TeamPu-Server)|2024.11 ~ 2024.12|팀프실 야간잔류 신청 시스템|Backend & Infra|
-|2|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ |대학 축제용 미팅 서비스|Backend & Infra|
+|2|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ |대학 축제용 미팅 서비스|Backend & Infra (including project planning)|
 
 ### 🥭 Currently Learning
 `spring security`, `jwt`, `oauth2`, `redis`, `jpa`, `swagger`
