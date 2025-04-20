@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFB74D&fontColor=F98A00&height=130&section=header&text=ahyeon🫛&textShadow=2px_2px_5px_#F57F17%2C-2px_-2px_5px_#F57F17%2C2px_-2px_5px_#F57F17%2C-2px_2px_5px_#F57F17)
 
 ### 🥭 Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,npm,intellijidea
-)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,npm)](https://skillicons.dev)
 
 ### 🥭 Projects
 |No.|Project Name|Period|Description|Role|
