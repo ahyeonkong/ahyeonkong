@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFB74D&fontColor=F98A00&height=130&section=header&text=ahyeon🫛&textShadow=2px_2px_5px_#F57F17%2C-2px_-2px_5px_#F57F17%2C2px_-2px_5px_#F57F17%2C-2px_2px_5px_#F57F17)
 <br></br>
 
+### 🥭 Position  
+**`Backend Developer — Server & Infrastructure`**
+
 ### 🥭 Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,npm)](https://skillicons.dev)
 
