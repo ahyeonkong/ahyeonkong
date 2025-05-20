@@ -12,8 +12,8 @@
 |:----:|:----:|:----:|:----:|:----:|
 |1|[TeamPu](https://github.com/Gobongbab/TeamPu-Server)|2024.11 ~ 2024.12|팀프실 야간잔류 신청 시스템  |Backend & Infra|
 |2|Saessag|2024.12 ~ 2025.04|세션 기반 로그인 및 리팩토링  |Backend & Infra|
-|3|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ |대학 축제용 미팅 서비스  |Backend & Infra (including project planning)|
-|4|KuriVerse|2025.03 ~ |어린이용 AI 채팅 순화 메타버스 플랫폼  |Backend & Infra|
+|3|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ |대학 축제용 미팅 서비스  |Backend & Infra (with project planning)|
+|4|KuriVerse|2025.03 ~ |어린이용 AI 채팅 순화 플랫폼  |Backend & Infra|
 
 ### 🥭 Currently Learning
 `spring security`, `jwt`, `oauth2`, `redis`, `jpa`, `swagger`
