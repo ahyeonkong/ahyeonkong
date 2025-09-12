@@ -15,6 +15,15 @@
 |3|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ 2025.05|대학 축제용 미팅 서비스  |Backend & Infra (with project planning)|
 |4|[Kuriverse](https://github.com/KuriBus/server)|2025.03 ~ 2025.08|어린이용 AI 채팅 순화 플랫폼  |Backend & Infra|
 
+### 🥭 Certificates
+- 정보처리기사 (2025.09)
+- 정보처리산업기사 (2024.06)
+- SQLD (2024.09)
+- OPIc IM2 (2025.08)
+
+### 🥭 Awards
+- 산학협력 심화캡스톤디자인 경진대회 금상 (2025.07)
+
 ### 🥭 Currently Learning
 `spring security`, `jwt`, `oauth2`, `redis`, `jpa`, `swagger`
 - **Authentication & Authorization**: Implemented email, session login, JWT, OAuth2 (Kakao), and phone number verification.
