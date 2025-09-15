@@ -10,10 +10,10 @@
 ### 🥭 Projects
 |No.|Project|Period|Description|Role|
 |:----:|:----:|:----:|:----:|:----:|
-|1|[TeamPu](https://github.com/Gobongbab/TeamPu-Server)|2024.11 ~ 2024.12|팀프실 야간잔류 신청 시스템  |Backend & Infra|
-|2|Saessag|2024.12 ~ 2025.04|세션 기반 로그인 및 리팩토링  |Backend & Infra|
-|3|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ 2025.05|대학 축제용 미팅 서비스  |Backend & Infra (with project planning)|
-|4|[Kuriverse](https://github.com/KuriBus/server)|2025.03 ~ 2025.08|어린이용 AI 채팅 순화 플랫폼  |Backend & Infra|
+|1|[Kuriverse](https://github.com/KuriBus/server)|2025.03 ~ 2025.08|어린이용 AI 채팅 순화 플랫폼  |Backend & Infra|
+|2|[Festamate!](https://github.com/Gobongbab/Festamate-Server)|2025.01 ~ 2025.05|대학 축제용 미팅 서비스  |Backend & Infra (with project planning)|
+|3|Saessag|2024.12 ~ 2025.04|세션 기반 로그인 및 리팩토링  |Backend & Infra|
+|4|[TeamPu](https://github.com/Gobongbab/TeamPu-Server)|2024.11 ~ 2024.12|팀프실 야간잔류 신청 시스템  |Backend & Infra|
 
 ### 🥭 Certificates
 - 정보처리기사 (2025.09)
@@ -24,12 +24,6 @@
 
 ### 🥭 Awards
 - 산학협력 심화캡스톤디자인 경진대회 금상 (2025.07)
-
-### 🥭 Currently Learning
-`spring security`, `jwt`, `oauth2`, `redis`, `jpa`, `swagger`
-- **Authentication & Authorization**: Implemented email, session login, JWT, OAuth2 (Kakao), and phone number verification.
-- **Infrastructure & Monitoring**: Set up EC2, managed RDS, and monitored server logs and dashboards.
-- **Database & Caching**: Learning Redis for caching and performance optimization.
 
 ### 🥭 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)
