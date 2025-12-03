@@ -30,4 +30,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)
 
 ### 🥭 Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeonkong&theme=slateorange&show_icons=true&count_private=true)
+![ahyeonkong's GitHub stats](https://github-stats.3jun.store/api?username=ahyeonkong)
+
+
