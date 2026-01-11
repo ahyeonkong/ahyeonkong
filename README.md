@@ -2,7 +2,7 @@
 <br></br>
 
 ### 🥭 Position  
-**`Backend Developer — Server & Infrastructure`**
+**Backend Developer**
 
 ### 🥭 Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,python)](https://skillicons.dev)
