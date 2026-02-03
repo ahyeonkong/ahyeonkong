@@ -10,7 +10,7 @@
 ### 🥭 Projects
 |No.|Project|Period|Role|
 |:----:|:----:|:----:|:----:|
-|1|ANTMILLION  |2026.01 ~ |Full Stack (Frontend, Backend)|
+|1|게이미피케이션 기반 투자 심리 분석 모의투자 시스템|2026.01 ~ 2026.02|Full Stack (Frontend, Backend)|
 |2|AI 맞춤형 카드 추천 서비스  |2025.08 ~ 2025.10|Full Stack (Frontend, Backend, AI)|
 |3|어린이용 AI 채팅 순화 플랫폼  |2025.03 ~ 2025.08|Backend & Infra|
 |4|대학 축제용 미팅 서비스  |2025.01 ~ 2025.05|Backend & Infra (with project planning)|
