@@ -26,7 +26,12 @@
 - TOPCIT LEVEL 3 (2025.05)
 
 ### 🥭 Awards
-- 산학협력 심화캡스톤디자인 경진대회 금상 (2025.07)
+|No.|Name|Grade|Project|Organizer|Period|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|1|심화캡스톤디자인 경진대회|금상|Kuriverse|산학협력단|2025.07|
+|2|하계종합학술대회|은상|Re-Treiver|한국정보기술학회|2024.05|
+
+- 한국정보기술학회 하계종합학술대회 은상 (2024.05)
 
 ### 🥭 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)
