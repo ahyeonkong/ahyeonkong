@@ -29,8 +29,8 @@
 |No.|Name|Grade|Project|Organizer|Period|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |1|심화캡스톤디자인 경진대회|금상|Kuriverse|소프트웨어중심대학사업단|2025.07.11|
-|2|하계종합학술대회|동상|Kuriverse|한국정보기술학회|2025.06.13|
-|3|하계종합학술대회|은상|Re-Treiver|한국정보기술학회|2024.05.24|
+|2|하계종합학술대회 대학생 논문경진대회|동상|Kuriverse|한국정보기술학회|2025.06.13|
+|3|하계종합학술대회 대학생 논문경진대회|은상|Re-Treiver|한국정보기술학회|2024.05.24|
 
 ### 🥭 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)
