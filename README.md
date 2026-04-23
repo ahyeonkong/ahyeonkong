@@ -2,20 +2,21 @@
 <br></br>
 
 ### 🥭 Position  
-**Backend Developer**
+**Full-Stack Developer**
 
 ### 🥭 Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,python,maven,gradle,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,ubuntu,linux,docker,nginx,githubactions,bash,prometheus,grafana,git,python,maven,gradle,jquery,fastapi,git,postgres,react,ts,vite)](https://skillicons.dev)
 
 ### 🥭 Projects
 |No.|Project|Period|Role|
 |:----:|:----:|:----:|:----:|
-|1|투자 심리 분석 모의투자 시스템|2026.01 ~ 2026.02|Full Stack (Frontend, Backend)|
-|2|AI 맞춤형 카드 추천 서비스  |2025.08 ~ 2025.10|Full Stack (Frontend, Backend, AI)|
-|3|어린이용 AI 채팅 순화 플랫폼  |2025.03 ~ 2025.08|Backend & Infra|
-|4|대학 축제용 미팅 서비스  |2025.01 ~ 2025.05|Backend & Infra (with project planning)|
-|5|세션 기반 로그인 및 리팩토링  |2024.12 ~ 2025.04|Backend & Infra|
-|6|팀프실 야간잔류 신청 시스템  |2024.11 ~ 2024.12|Backend & Infra|
+|1|AI 기반 대출 상환 유도 핀테크 플랫폼|2026.03 ~ 2026.04|Full Stack (Frontend, Backend, AI)|
+|2|투자 심리 분석 모의투자 시스템|2026.01 ~ 2026.02|Full Stack (Frontend, Backend)|
+|3|AI 맞춤형 카드 추천 서비스  |2025.08 ~ 2025.10|Full Stack (Frontend, Backend, AI)|
+|4|어린이용 AI 채팅 순화 플랫폼  |2025.03 ~ 2025.08|Backend, Infra|
+|5|대학 축제용 미팅 서비스  |2025.01 ~ 2025.05|Backend, Infra|
+|6|세션 기반 로그인 및 리팩토링  |2024.12 ~ 2025.04|Backend, Infra|
+|7|팀프실 야간잔류 신청 시스템  |2024.11 ~ 2024.12|Backend, Infra|
 
 ### 🥭 Certificates
 - ADsP (2026.03)
