@@ -29,9 +29,10 @@
 ### 🥭 Awards
 |No.|Name|Grade|Project|Organizer|Period|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|1|심화캡스톤디자인 경진대회|금상|Kuriverse|소프트웨어중심대학사업단|2025.07.11|
-|2|하계종합학술대회 대학생 논문경진대회|동상|Kuriverse|한국정보기술학회|2025.06.13|
-|3|하계종합학술대회 대학생 논문경진대회|은상|Re-Treiver|한국정보기술학회|2024.05.24|
+|1|신한DS금융SW아카데미 팀프로젝트|우수상|NUDGEBANK|대한상공회의소|2026.04.24|
+|2|심화캡스톤디자인 경진대회|금상|Kuriverse|소프트웨어중심대학사업단|2025.07.11|
+|3|하계종합학술대회 대학생 논문경진대회|동상|Kuriverse|한국정보기술학회|2025.06.13|
+|4|하계종합학술대회 대학생 논문경진대회|은상|Re-Treiver|한국정보기술학회|2024.05.24|
 
 ### 🥭 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=roqkfwkah)](https://solved.ac/roqkfwkah)
